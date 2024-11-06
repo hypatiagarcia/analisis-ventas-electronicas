@@ -13,7 +13,7 @@ El análisis incluye:
 El dataset original fue obtenido de Kaggle: [Electronic Sales Dataset](https://www.kaggle.com/datasets/cameronseamons/electronic-sales-sep2023-sep2024).
 
 ## Reproducción del Análisis
-1. Clona este repositorio.
-2. Asegúrate de tener instalado Python y las siguientes librerías: Pandas, Matplotlib, Seaborn y Numpy.
-3. Ejecuta el archivo `Ventas_de_Electronica_Pandas.ipynb` en Jupyter Notebook.
-4. Si prefieres ver el análisis completo sin ejecutar el código, puedes consultar el archivo PDF `Ventas_de_Electronica_Analisis.pdf` en la carpeta `output/`.
+1. Clonar este repositorio.
+2. Tener instalado Python y las siguientes librerías: Pandas, Matplotlib, Seaborn y Numpy.
+3. Ejecutar el archivo `Ventas_de_Electronica_Pandas.ipynb` en Jupyter Notebook.
+4. Si prefiere ver el análisis completo sin ejecutar el código, puedes consultar el archivo PDF `Ventas_de_Electronica_Analisis.pdf` en la carpeta `output/`.
